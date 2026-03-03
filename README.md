@@ -1,15 +1,10 @@
-<!-- HERO -->
+<!-- HERO / Identity Statement -->
 <p align="center">
-  <img src="Srirama Personal photo.jpg" width="550" height="550" style="border-radius: 50%" alt="Srirama Murthy Chellu" />
+  <img src="Srirama Personal photo.jpg" width="150" height="150" style="border-radius: 50%" alt="Srirama Murthy Chellu" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Srirama+Murthy+Chellu;Building+systems+that+think;AI%2FML+Engineer+%7C+Data+Scientist" />
-</p>
-
-<p align="center">
-  <b>Production focused AI/ML engineer bringing elegant systems to life.</b><br/>
-  Bias for clean abstractions, machine intelligence, and shipping things that matter.
 </p>
 
 <p align="center">
@@ -23,86 +18,73 @@
 
 ## Engineering Philosophy
 
-> I build at the intersection of machine intelligence and user product. Originally from Hyderabad, India, and now engineering out of Los Angeles, CA. My focus spans from raw data science models to autonomous RAG pipelines, data analytics, and reactive full stack environments.
+**Production-focused AI/ML engineer bringing elegant systems to life.**<br/>
+Bias for clean abstractions, machine intelligence, and shipping things that matter.
+
+> I build at the intersection of machine intelligence and user product. Originally from Hyderabad, India, and now engineering out of San Francisco, CA. My focus spans from raw data science models to autonomous RAG pipelines, data analytics, and reactive full-stack environments.
+
+---
+
+## Systems Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sriramachellu&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=4c1&text_color=9f9f9f&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramachellu&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=00000000" width="48%" />
+</p>
+
+---
+
+## Systems Design & Evaluation
 
 - **Systems Architecture:** Designing low-latency, scalable infrastructure with zero idle compute overhead.
 - **AI/ML Engineering:** Custom RAG pipelines, fine-tuned LLMs, dynamic prompt engineering, and deep learning modeling.
-- **Data Engineering:** Extracting, transforming, and interpreting complex, real world data at scale.
+- **Data Engineering:** Extracting, transforming, and interpreting complex, real-world data at scale.
 - **Full-Stack Execution:** End-to-end feature ownership from the backend database to the frontend UI.
 
 ---
 
-## The Technical Core
-
-> The precise tools, languages, and frameworks powering my production architectures.
+## Technical Core
 
 <p align="center">
-  <br /><b>Languages & Core</b><br /><br />
-  <img src="skills/Python.svg" width="40" height="40" alt="Python" title="Python" />
-  <img src="skills/TypeScript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
-  <img src="skills/JavaScript.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="skills/C.svg" width="40" height="40" alt="C" title="C" />
-  <img src="skills/R.svg" width="40" height="40" alt="R" title="R" />
-  <img src="skills/Bash.svg" width="40" height="40" alt="Bash" title="Bash" />
-  <br /><br />
-  <b>Machine Learning & Data Analytics</b><br /><br />
-  <img src="skills/PyTorch.svg" width="40" height="40" alt="PyTorch" title="PyTorch" />
-  <img src="skills/TensorFlow.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow" />
-  <img src="skills/scikit-learn.svg" width="40" height="40" alt="Scikit-Learn" title="Scikit-Learn" />
-  <img src="skills/NumPy.svg" width="40" height="40" alt="NumPy" title="NumPy" />
-  <img src="skills/Pandas.svg" width="40" height="40" alt="Pandas" title="Pandas" />
-  <img src="skills/Matplotlib.svg" width="40" height="40" alt="Matplotlib" title="Matplotlib" />
-  <img src="skills/OpenCV.svg" width="40" height="40" alt="OpenCV" title="OpenCV" />
-  <img src="skills/Apache Spark.svg" width="40" height="40" alt="Apache Spark" title="Apache Spark" />
-  <img src="skills/beam-logo-full-color-name-bottom.svg" width="40" height="40" alt="Apache Beam" title="Apache Beam" />
-  <img src="skills/Apache Airflow.svg" width="40" height="40" alt="Apache Airflow" title="Apache Airflow" />
-  <img src="skills/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI" title="Power BI" />
-  <img src="skills/tableau.svg" width="40" height="40" alt="Tableau" title="Tableau" />
-  <img src="skills/microsoft-excel.svg" width="40" height="40" alt="Excel" title="Excel" />
-  <br /><br />
-  <b>Generative AI & LLM Systems</b><br /><br />
-  <img src="skills/openai.svg" width="40" height="40" alt="OpenAI" title="OpenAI" />
-  <img src="skills/anthropic.svg" width="40" height="40" alt="Anthropic" title="Anthropic" />
-  <img src="skills/claude-color.svg" width="40" height="40" alt="Claude" title="Claude" />
-  <img src="skills/gemini-color.svg" width="40" height="40" alt="Gemini" title="Gemini" />
-  <img src="skills/deepseek-color.svg" width="40" height="40" alt="DeepSeek" title="DeepSeek" />
-  <img src="skills/huggingface-color.svg" width="40" height="40" alt="HuggingFace" title="HuggingFace" />
-  <img src="skills/langchain.svg" width="40" height="40" alt="LangChain" title="LangChain" />
-  <img src="skills/llamaindex-color.svg" width="40" height="40" alt="LlamaIndex" title="LlamaIndex" />
-  <img src="skills/ollama.svg" width="40" height="40" alt="Ollama" title="Ollama" />
-  <img src="skills/vllm-color.svg" width="40" height="40" alt="vLLM" title="vLLM" />
-  <img src="skills/perplexity-color.svg" width="40" height="40" alt="Perplexity" title="Perplexity" />
-  <br /><br />
-  <b>Cloud, DevOps & Backend</b><br /><br />
-  <img src="skills/googlecloud-color.svg" width="40" height="40" alt="GCP" title="GCP" />
-  <img src="skills/aws-color.svg" width="40" height="40" alt="AWS" title="AWS" />
-  <img src="skills/Docker.svg" width="40" height="40" alt="Docker" title="Docker" />
-  <img src="skills/github.svg" width="40" height="40" alt="GitHub" title="GitHub" />
-  <img src="skills/Git.svg" width="40" height="40" alt="Git" title="Git" />
-  <img src="skills/Vercel.svg" width="40" height="40" alt="Vercel" title="Vercel" />
-  <img src="skills/MySQL.svg" width="40" height="40" alt="MySQL" title="MySQL" />
-  <img src="skills/PostgresSQL.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="skills/supabase-logo-icon.svg" width="40" height="40" alt="Supabase" title="Supabase" />
-  <img src="skills/convex.svg" width="40" height="40" alt="Convex" title="Convex" />
-  <img src="skills/FastAPI.svg" width="40" height="40" alt="FastAPI" title="FastAPI" />
-  <img src="skills/nextjs.svg" width="40" height="40" alt="Next.js" title="Next.js" />
-  <img src="skills/React.svg" width="40" height="40" alt="React" title="React" />
-  <img src="skills/Tailwind CSS.svg" width="40" height="40" alt="Tailwind" title="Tailwind" />
-  <br /><br />
-  <b>AI IDEs, Utilities</b><br /><br />
-  <img src="skills/Antigravity.svg" width="40" height="40" alt="Antigravity" title="Google Antigravity" />
-  <img src="skills/cursor.svg" width="40" height="40" alt="Cursor" title="Cursor AI" />
-  <img src="skills/githubcopilot.svg" width="40" height="40" alt="Copilot" title="GitHub Copilot" />
-  <img src="skills/Visual Studio Code (VS Code).svg" width="40" height="40" alt="VS Code" title="VS Code" />
-  <img src="skills/colab-color.svg" width="40" height="40" alt="Colab" title="Google Colab" />
-  <img src="skills/Jupyter.svg" width="40" height="40" alt="Jupyter" title="Jupyter" />
-  <br /><br />
-  <b>Design Tools</b><br /><br />
-  <img src="skills/figma-color.svg" width="40" height="40" alt="Figma" title="Figma" />
-  <img src="skills/Adobe Photoshop.svg" width="40" height="40" alt="Photoshop" title="Photoshop" />
-  <img src="skills/Adobe Premiere Pro.svg" width="40" height="40" alt="Premiere Pro" title="Premiere Pro" />
-  <img src="skills/After Effects.svg" width="40" height="40" alt="After Effects" title="After Effects" />
+  <img src="skills/Python.svg" width="30" height="30" alt="Python" title="Python" />
+  <img src="skills/TypeScript.svg" width="30" height="30" alt="TypeScript" title="TypeScript" />
+  <img src="skills/JavaScript.svg" width="30" height="30" alt="JavaScript" title="JavaScript" />
+  <img src="skills/SQL.svg" width="30" height="30" alt="SQL" title="SQL" />
+  <img src="skills/PyTorch.svg" width="30" height="30" alt="PyTorch" title="PyTorch" />
+  <img src="skills/TensorFlow.svg" width="30" height="30" alt="TensorFlow" title="TensorFlow" />
+  <img src="skills/scikit-learn.svg" width="30" height="30" alt="Scikit-Learn" title="Scikit-Learn" />
+  <img src="skills/Pandas.svg" width="30" height="30" alt="Pandas" title="Pandas" />
+  <img src="skills/Apache Spark.svg" width="30" height="30" alt="Apache Spark" title="Apache Spark" />
+  <img src="skills/New_Power_BI_Logo.svg" width="30" height="30" alt="Power BI" title="Power BI" />
+  <img src="skills/openai.svg" width="30" height="30" alt="OpenAI" title="OpenAI" />
+  <img src="skills/anthropic.svg" width="30" height="30" alt="Anthropic" title="Anthropic" />
+  <img src="skills/gemini-color.svg" width="30" height="30" alt="Gemini" title="Gemini" />
+  <img src="skills/deepseek-color.svg" width="30" height="30" alt="DeepSeek" title="DeepSeek" />
+  <img src="skills/langchain.svg" width="30" height="30" alt="LangChain" title="LangChain" />
+  <img src="skills/googlecloud-color.svg" width="30" height="30" alt="GCP" title="GCP" />
+  <img src="skills/aws-color.svg" width="30" height="30" alt="AWS" title="AWS" />
+  <img src="skills/Docker.svg" width="30" height="30" alt="Docker" title="Docker" />
+  <img src="skills/PostgresSQL.svg" width="30" height="30" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="skills/FastAPI.svg" width="30" height="30" alt="FastAPI" title="FastAPI" />
+  <img src="skills/nextjs.svg" width="30" height="30" alt="Next.js" title="Next.js" />
+  <img src="skills/React.svg" width="30" height="30" alt="React" title="React" />
 </p>
+
+---
+
+## Operational Experience
+
+**Full Stack Developer @ Saayam For All** *(San Jose, CA | July 2025 – Present)*
+- Built and maintained backend services and REST APIs in Python using Flask to power real-time geospatial volunteer matching, enabling efficient and low-latency request routing across active users.
+- Designed and optimized PostgreSQL schemas on AWS Aurora with spatial indexing to improve nearest neighbor searches and location based filtering.
+- Refactored SQL queries and backend workflows to remove performance bottlenecks, improving API stability.
+- Integrated AWS services including Lambda, API Gateway, Cognito, and MSK to support a secure microservices architecture.
+
+**Data Analyst @ GRIET** *(Hyderabad, India | 2021 – 2022)*
+- Collected, cleaned, and analyzed event participation data using SQL and Excel across more than 12 technical and cultural programs to support planning and improve decision making.
+- Built automated dashboards and recurring reports to track engagement trends, reducing manual reporting effort by 50 percent.
+- Standardized data preparation, validation, and reporting processes to improve data consistency.
+- Led the planning and execution of workshops and hackathons as Chairperson of IEEE GRSS.
 
 ---
 
@@ -110,33 +92,65 @@
 
 > From semantic retrieval augmented assistants to scalable data platforms, each project is engineered to withstand real world constraints.
 
-### [OpenNoteLM](https://github.com/sriramachellu) — *AI Document Workspace* - [Live](https://opennotelm.app)
-A low latency RAG system integrating Gemini 2.5 Flash and Vertex AI. Features ~120–250ms Time-to-First-Token, robust semantic retrieval, and zero idle compute overhead. Orchestrated via Next.js and Convex.
-
-### [Apple Liquid-Glass Portfolio](https://github.com/sriramachellu/LLM-Powered-Portfolio-Website-with-Interactive-AI-Chat-Custom-RAG-Engine) — *AI Native Web Ecosystem* - [Live](www.sriramamurthychellu.dev)
-A fully resilient serverless web application showcasing structured project context via an interactive, AI-driven chatbot. Handles adaptive model fallback with deep Spotify Web API and RAG layer integrations.
-
-### [Metagenomic Interpretation via GenAI](https://github.com/sriramachellu/GenAI-Assisted-Interpretation-of-Metagenomic-Sequencing-Data) — *Clinical Insight Pipelines*
-Transforms raw sequencing noise into PubMed grounded inferences using DeepSeek-R1. Bridges bioinformatics with structural reasoning through strict contaminant filtering and safety constrained generation capabilities.
-
-### [Superstore Sales Analysis & Visualization](https://github.com/sriramachellu/Sales-Performance-Profit-Insights-Analysis-Dashboard-Visualization-SQL-Power-BI-Tableau) — *Retail Analytics Dashboard & ETL Pipeline*
-Developed a scalable data engineering and analytics workflow processing 50,000+ retail records using PySpark and MySQL. Highlights regional performance, profitability trends, and customer retention metrics.
+<table>
+  <tr>
+    <td width="30%">
+      <img src="OpenNoteLM.jpg" width="100%" alt="OpenNoteLM UI">
+    </td>
+    <td width="70%">
+      <b><a href="https://github.com/sriramachellu">OpenNoteLM</a> — AI Document Workspace</b> - <a href="https://opennotelm.app">Live</a><br/>
+      A low-latency RAG system integrating Gemini 2.5 Flash and Vertex AI. Features ~120–250ms Time-to-First-Token, robust semantic retrieval, and zero idle compute overhead. Orchestrated via Next.js and Convex.
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
+      <img src="Portfolio project image.jpg" width="100%" alt="Portfolio UI">
+    </td>
+    <td width="70%">
+      <b><a href="https://github.com/sriramachellu/LLM-Powered-Portfolio-Website-with-Interactive-AI-Chat-Custom-RAG-Engine">Apple Liquid-Glass Portfolio</a> — AI Native Web Ecosystem</b> - <a href="https://sriramamurthychellu.dev">Live</a><br/>
+      A fully resilient serverless web application showcasing structured project context via an interactive, AI-driven chatbot. Handles adaptive model fallback with deep Spotify Web API and RAG layer integrations.
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
+      <img src="GenAI Bioinfo.jpg" width="100%" alt="GenAI Bioinfo">
+    </td>
+    <td width="70%">
+      <b><a href="https://github.com/sriramachellu/GenAI-Assisted-Interpretation-of-Metagenomic-Sequencing-Data">Metagenomic Interpretation via GenAI</a> — Clinical Insight Pipelines</b><br/>
+      Transforms raw sequencing noise into PubMed grounded inferences using DeepSeek-R1. Bridges bioinformatics with structural reasoning through strict contaminant filtering and safety constrained generation capabilities.
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
+      <img src="Superstore Sales Analysis and Visualization.png" width="100%" alt="Superstore Sales Analysis Dashboard">
+    </td>
+    <td width="70%">
+      <b><a href="https://github.com/sriramachellu/Sales-Performance-Profit-Insights-Analysis-Dashboard-Visualization-SQL-Power-BI-Tableau">Superstore Sales Analysis & Visualization</a> — Retail Analytics Dashboard & ETL Pipeline</b><br/>
+      Developed a scalable data engineering and analytics workflow processing 50,000+ retail records using PySpark and MySQL. Highlights regional performance, profitability trends, and customer retention metrics.
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
+      <img src="data_labeler_showcase.png" width="100%" alt="Autonomous Data Labeler UI">
+    </td>
+    <td width="70%">
+      <b><a href="https://github.com/sri/data-labeler">Autonomous Data Labeler</a> — Active Learning Data Labeling System</b><br/>
+      Architected a weak-to-strong orchestration model where a lightweight model proposes labels, human reviewers validate, and a supervisory model arbitrates. Achieved an 80% reduction in labeling cost.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Operational Experience
+## Core CS
 
-- **Full Stack Developer @ Saayam For All** *(San Jose, CA | July 2025 – Present)*
+**M.S. in Data Science @ Florida State University** *(Tallahassee, FL | 2023 – 2025)*
+- Specialized in advanced ML structures, data mining, and secure data systems. Graduated with honors (3.897 GPA).
 
-- **M.S. in Data Science @ Florida State University** *(Tallahassee, FL | 2023 – 2025)*
-
-- **Data Analyst @ GRIET** *(Hyderabad, India | 2021 – 2022)*
-
-- **Bachelor of Technology in Electronics and Communication Engineering @ GRIET** *(Hyderabad, India | 2019 – 2023)*
+**B.Tech. in Electronics and Communication Engineering @ GRIET** *(Hyderabad, India | 2019 – 2023)*
+- Studied underlying hardware interfaces alongside higher-level programming logic and algorithms.
 
 ---
-
-## ✉️ Ready to Scale?
 
 <p align="center">
   <a href="https://linkedin.com/in/sriramamurthychellu">
