@@ -36,16 +36,18 @@
 
 > The precise tools, languages, and frameworks powering my production architectures.
 
-<p align="center">
-  <br /><b>Languages & Core</b><br /><br />
+### Languages & Core
+<p>
   <img src="skills/Python.svg" width="40" height="40" alt="Python" title="Python" />
   <img src="skills/TypeScript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
   <img src="skills/JavaScript.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
   <img src="skills/C.svg" width="40" height="40" alt="C" title="C" />
   <img src="skills/R.svg" width="40" height="40" alt="R" title="R" />
   <img src="skills/Bash.svg" width="40" height="40" alt="Bash" title="Bash" />
-  <br /><br />
-  <b>Machine Learning & Data Analytics</b><br /><br />
+</p>
+
+### Machine Learning & Data Analytics
+<p>
   <img src="skills/PyTorch.svg" width="40" height="40" alt="PyTorch" title="PyTorch" />
   <img src="skills/TensorFlow.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow" />
   <img src="skills/scikit-learn.svg" width="40" height="40" alt="Scikit-Learn" title="Scikit-Learn" />
@@ -59,8 +61,10 @@
   <img src="skills/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI" title="Power BI" />
   <img src="skills/tableau.svg" width="40" height="40" alt="Tableau" title="Tableau" />
   <img src="skills/microsoft-excel.svg" width="40" height="40" alt="Excel" title="Excel" />
-  <br /><br />
-  <b>Generative AI & LLM Systems</b><br /><br />
+</p>
+
+### Generative AI & LLM Systems
+<p>
   <img src="skills/openai.svg" width="40" height="40" alt="OpenAI" title="OpenAI" />
   <img src="skills/anthropic.svg" width="40" height="40" alt="Anthropic" title="Anthropic" />
   <img src="skills/claude-color.svg" width="40" height="40" alt="Claude" title="Claude" />
@@ -72,8 +76,10 @@
   <img src="skills/ollama.svg" width="40" height="40" alt="Ollama" title="Ollama" />
   <img src="skills/vllm-color.svg" width="40" height="40" alt="vLLM" title="vLLM" />
   <img src="skills/perplexity-color.svg" width="40" height="40" alt="Perplexity" title="Perplexity" />
-  <br /><br />
-  <b>Cloud, DevOps & Backend</b><br /><br />
+</p>
+
+### Cloud, DevOps & Backend
+<p>
   <img src="skills/googlecloud-color.svg" width="40" height="40" alt="GCP" title="GCP" />
   <img src="skills/aws-color.svg" width="40" height="40" alt="AWS" title="AWS" />
   <img src="skills/Docker.svg" width="40" height="40" alt="Docker" title="Docker" />
@@ -88,16 +94,20 @@
   <img src="skills/nextjs.svg" width="40" height="40" alt="Next.js" title="Next.js" />
   <img src="skills/React.svg" width="40" height="40" alt="React" title="React" />
   <img src="skills/Tailwind CSS.svg" width="40" height="40" alt="Tailwind" title="Tailwind" />
-  <br /><br />
-  <b>AI IDEs, Utilities</b><br /><br />
+</p>
+
+### AI IDEs & Utilities
+<p>
   <img src="skills/Antigravity.svg" width="40" height="40" alt="Antigravity" title="Google Antigravity" />
   <img src="skills/cursor.svg" width="40" height="40" alt="Cursor" title="Cursor AI" />
   <img src="skills/githubcopilot.svg" width="40" height="40" alt="Copilot" title="GitHub Copilot" />
   <img src="skills/Visual Studio Code (VS Code).svg" width="40" height="40" alt="VS Code" title="VS Code" />
   <img src="skills/colab-color.svg" width="40" height="40" alt="Colab" title="Google Colab" />
   <img src="skills/Jupyter.svg" width="40" height="40" alt="Jupyter" title="Jupyter" />
-  <br /><br />
-  <b>Design Tools</b><br /><br />
+</p>
+
+### Design Tools
+<p>
   <img src="skills/figma-color.svg" width="40" height="40" alt="Figma" title="Figma" />
   <img src="skills/Adobe Photoshop.svg" width="40" height="40" alt="Photoshop" title="Photoshop" />
   <img src="skills/Adobe Premiere Pro.svg" width="40" height="40" alt="Premiere Pro" title="Premiere Pro" />
@@ -109,14 +119,14 @@
 ## Operational Experience
 
 - **Full Stack Developer @ Saayam For All** *(San Jose, CA | July 2025 – Present)*
-  • Engineered and deployed Python (Flask) RESTful microservices enabling real time geospatial volunteer tracking and Uber/Lyft-style request routing across 1,400+ global users.
-  • Designed and optimized PostgreSQL (AWS Aurora) schemas with spatial indexing to support efficient nearest neighbor matching and low latency location based queries.
-  • Integrated backend-to-frontend services and maintained CI/CD pipelines (GitHub Actions, AWS) to ensure reliable deployments and production stability.
+  - Engineered and deployed Python (Flask) RESTful microservices enabling real time geospatial volunteer tracking and Uber/Lyft-style request routing across 1,400+ global users.
+  - Designed and optimized PostgreSQL (AWS Aurora) schemas with spatial indexing to support efficient nearest neighbor matching and low latency location based queries.
+  - Integrated backend-to-frontend services and maintained CI/CD pipelines (GitHub Actions, AWS) to ensure reliable deployments and production stability.
 
 - **Data Analyst @ GRIET** *(Hyderabad, India | 2021 – 2022)*
- • Analyzed datasets using SQL & Excel to support performance monitoring across 12+ institutional initiatives.
- • Built KPI dashboards and automated reporting workflows, reducing manual reporting effort by 50%.
- • Improved data reliability by standardizing validation and transformation processes, increasing sponsor and student engagement metrics by 30%.
+  - Analyzed datasets using SQL & Excel to support performance monitoring across 12+ institutional initiatives.
+  - Built KPI dashboards and automated reporting workflows, reducing manual reporting effort by 50%.
+  - Improved data reliability by standardizing validation and transformation processes, increasing sponsor and student engagement metrics by 30%.
 
 ## Systems Deployed
 
@@ -158,16 +168,6 @@
       <b><a href="https://github.com/sriramachellu/Sales-Performance-Profit-Insights-Analysis-Dashboard-Visualization-SQL-Power-BI-Tableau">Superstore Sales Analysis & Visualization</a> — Retail Analytics Dashboard & ETL Pipeline</b><br/>
       Developed a scalable data engineering and analytics workflow processing 50,000+ retail records using PySpark and MySQL. Highlights regional performance, profitability trends, and customer retention metrics.
     </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <img src="data_labeler_showcase.png" width="100%" alt="Autonomous Data Labeler UI">
-    </td>
-    <td width="70%">
-      <b><a href="https://github.com/sri/data-labeler">Autonomous Data Labeler</a> — Active Learning Data Labeling System</b><br/>
-      Architected a weak-to-strong orchestration model where a lightweight model proposes labels, human reviewers validate, and a supervisory model arbitrates. Achieved an 80% reduction in labeling cost.
-    </td>
-  </tr>
 </table>
 
 ---
@@ -182,12 +182,16 @@
 
 ---
 
-## ✉️ Ready to Scale?
+## Ready to Scale?
 
 <p align="center">
   <a href="https://linkedin.com/in/sriramamurthychellu">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="40" alt="LinkedIn"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="mailto:sriramamurthychellu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
