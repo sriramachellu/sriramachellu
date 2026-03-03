@@ -19,11 +19,11 @@
 
 ## Engineering Philosophy
 
-> I build at the intersection of machine intelligence and user product. Originally from Hyderabad, India, and now engineering out of Los Angeles, CA. My focus spans from raw data science models to autonomous RAG pipelines, data analytics, and reactive full-stack environments.
+> I build at the intersection of machine intelligence and user product. Originally from Hyderabad, India, and now engineering out of Los Angeles, CA. My focus spans from raw data science models to autonomous RAG pipelines, data analytics, and reactive full stack environments.
 
 - **Systems Architecture:** Designing low-latency, scalable infrastructure with zero idle compute overhead.
 - **AI/ML Engineering:** Custom RAG pipelines, fine-tuned LLMs, dynamic prompt engineering, and deep learning modeling.
-- **Data Engineering:** Extracting, transforming, and interpreting complex, real-world data at scale.
+- **Data Engineering:** Extracting, transforming, and interpreting complex, real world data at scale.
 - **Full-Stack Execution:** End-to-end feature ownership from the backend database to the frontend UI.
 
 ---
@@ -107,13 +107,13 @@
 > From semantic retrieval-augmented assistants to scalable data platforms, each project is engineered to withstand real-world constraints.
 
 ### [OpenNoteLM](https://github.com/sriramachellu) — *AI Document Workspace*
-A low-latency RAG system integrating Gemini 2.5 Flash and Vertex AI. Features ~120–250ms Time-to-First-Token, robust semantic retrieval, and zero idle compute overhead. Orchestrated via Next.js and Convex.
+A low latency RAG system integrating Gemini 2.5 Flash and Vertex AI. Features ~120–250ms Time-to-First-Token, robust semantic retrieval, and zero idle compute overhead. Orchestrated via Next.js and Convex.
 
 ### [Apple Liquid-Glass Portfolio](https://github.com/sriramachellu/LLM-Powered-Portfolio-Website-with-Interactive-AI-Chat-Custom-RAG-Engine) — *AI Native Web Ecosystem*
-A fully resilient serverless web application showcasing structured project context via an interactive, AI-driven chatbot. Handles adaptive model fallback with deep Spotify Web API and RAG layer integrations.
+A fully resilient serverless web application showcasing structured project context via an interactive, AI driven chatbot. Handles adaptive model fallback with deep Spotify Web API and RAG layer integrations.
 
 ### [Metagenomic Interpretation via GenAI](https://github.com/sriramachellu/GenAI-Assisted-Interpretation-of-Metagenomic-Sequencing-Data) — *Clinical Insight Pipelines*
-Transforms raw sequencing noise into PubMed-grounded inferences using DeepSeek-R1. Bridges bioinformatics with structural reasoning through strict contaminant filtering and safety-constrained generation capabilities.
+Transforms raw sequencing noise into PubMed grounded inferences using DeepSeek-R1. Bridges bioinformatics with structural reasoning through strict contaminant filtering and safety constrained generation capabilities.
 
 ---
 
