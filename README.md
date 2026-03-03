@@ -106,11 +106,14 @@
 
 > From semantic retrieval-augmented assistants to scalable data platforms, each project is engineered to withstand real-world constraints.
 
-### [OpenNoteLM](https://github.com/sriramachellu) — *AI Document Workspace* - [Live](https://opennotelm.app)
-A low latency RAG system integrating Gemini 2.5 Flash and Vertex AI. Features ~120–250ms Time-to-First-Token, robust semantic retrieval, and zero idle compute overhead. Orchestrated via Next.js and Convex.
+### [OpenNoteLM](https://github.com/sriramachellu) — *AI Document Workspace*
+A low-latency RAG system integrating Gemini 2.5 Flash and Vertex AI. Features ~120–250ms Time-to-First-Token, robust semantic retrieval, and zero idle compute overhead. Orchestrated via Next.js and Convex.
 
-### [Apple Liquid-Glass Portfolio](https://github.com/sriramachellu/LLM-Powered-Portfolio-Website-with-Interactive-AI-Chat-Custom-RAG-Engine) — *AI Native Web Ecosystem* - [Live](https://sriramamurthychellu.dev)
-A fully resilient serverless web application showcasing structured project context via an interactive, AI driven chatbot. Handles adaptive model fallback with deep Spotify Web API and RAG layer integrations.
+### [Autonomous Data Labeler](https://github.com/sri/data-labeler) — *Scalable Annotation System*
+Architected an active-learning workflow utilizing weak-to-strong orchestration with Anthropic Claude models. Achieved an estimated 80% reduction in fully manual labeling cost with a human-in-the-loop arbitration design.
+
+### [Apple Liquid-Glass Portfolio](https://github.com/sriramachellu/LLM-Powered-Portfolio-Website-with-Interactive-AI-Chat-Custom-RAG-Engine) — *AI Native Web Ecosystem*
+A fully resilient serverless web application showcasing structured project context via an interactive, AI-driven chatbot. Handles adaptive model fallback with deep Spotify Web API and RAG layer integrations.
 
 ### [Metagenomic Interpretation via GenAI](https://github.com/sriramachellu/GenAI-Assisted-Interpretation-of-Metagenomic-Sequencing-Data) — *Clinical Insight Pipelines*
 Transforms raw sequencing noise into PubMed grounded inferences using DeepSeek-R1. Bridges bioinformatics with structural reasoning through strict contaminant filtering and safety constrained generation capabilities.
