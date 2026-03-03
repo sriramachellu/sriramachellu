@@ -28,27 +28,6 @@
 
 ---
 
-## Systems Metrics
-
-- <50ms semantic retrieval latency
-- ~120–250ms Time-to-First-Token (LLM streaming)
-- 50k+ transaction distributed ETL processing
-- 1,400+ active users supported in production microservices
-- Zero idle serverless compute overhead
-
----
-
-## Systems Design & Evaluation
-
-- Hybrid retrieval (semantic + keyword scoring)
-- Hallucination mitigation via structured chunking
-- Model fallback routing & rate limit resilience
-- Observability first logging & structured error tracing
-- Evaluation-driven development (retrieval testing, output validation)
-- Cost-aware model selection strategies
-
----
-
 ## The Technical Core
 
 > The precise tools, languages, and frameworks powering my production architectures.
@@ -133,6 +112,16 @@
 
 ---
 
+## Education
+
+**M.S. in Data Science @ Florida State University** *(Tallahassee, FL | 2023 – 2025)*
+- Specialized in advanced ML structures, data mining, and secure data systems. Graduated with honors (3.897 GPA).
+
+**B.Tech. in Electronics and Communication Engineering @ GRIET** *(Hyderabad, India | 2019 – 2023)*
+- Studied underlying hardware interfaces alongside higher-level programming logic and algorithms.
+
+---
+
 ## Operational Experience
 
 - **Full Stack Developer @ Saayam For All** *(San Jose, CA | July 2025 – Present)*
@@ -189,13 +178,24 @@
 
 ---
 
-## Education
+## Systems Metrics
 
-**M.S. in Data Science @ Florida State University** *(Tallahassee, FL | 2023 – 2025)*
-- Specialized in advanced ML structures, data mining, and secure data systems. Graduated with honors (3.897 GPA).
+- <50ms semantic retrieval latency
+- ~120–250ms Time-to-First-Token (LLM streaming)
+- 50k+ transaction distributed ETL processing
+- 1,400+ active users supported in production microservices
+- Zero idle serverless compute overhead
 
-**B.Tech. in Electronics and Communication Engineering @ GRIET** *(Hyderabad, India | 2019 – 2023)*
-- Studied underlying hardware interfaces alongside higher-level programming logic and algorithms.
+---
+
+## Systems Design & Evaluation
+
+- Hybrid retrieval (semantic + keyword scoring)
+- Hallucination mitigation via structured chunking
+- Model fallback routing & rate limit resilience
+- Observability first logging & structured error tracing
+- Evaluation-driven development (retrieval testing, output validation)
+- Cost-aware model selection strategies
 
 ---
 
