@@ -12,6 +12,7 @@
   <a href="https://github.com/sriramachellu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://sriramamurthychellu.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:sriramamurthychellu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+18505596563"><img src="https://img.shields.io/badge/Phone-D14836?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
 </p>
 
 ---
@@ -205,6 +206,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:sriramamurthychellu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+18505596563"><img src="https://img.shields.io/badge/Phone-D14836?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
 </p>
 
 
