@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="Srirama Personal photo.jpg" width="150" height="150" style="border-radius: 50%" alt="Srirama Murthy Chellu" />
+  <img src="Srirama Personal photo.jpg" width="250" height="250" style="border-radius: 50%" alt="Srirama Murthy Chellu" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ---
 
-## ⚙️ The Technical Core
+## The Technical Core
 
 > The precise tools, languages, and frameworks powering my production architectures.
 
@@ -106,19 +106,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriramachellu&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=4c1&text_color=9f9f9f&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramachellu&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=00000000" width="48%" />
-</p>
-
----
-
 ## Systems Deployed
 
-> From semantic retrieval-augmented assistants to scalable data platforms, each project is engineered to withstand real-world constraints.
+> From semantic retrieval augmented assistants to scalable data platforms, each project is engineered to withstand real world constraints.
 
 ### [OpenNoteLM](https://github.com/sriramachellu) — *AI Document Workspace* - [Live](https://opennotelm.app)
-A low-latency RAG system integrating Gemini 2.5 Flash and Vertex AI. Features ~120–250ms Time-to-First-Token, robust semantic retrieval, and zero idle compute overhead. Orchestrated via Next.js and Convex.
+A low latency RAG system integrating Gemini 2.5 Flash and Vertex AI. Features ~120–250ms Time-to-First-Token, robust semantic retrieval, and zero idle compute overhead. Orchestrated via Next.js and Convex.
 
 ### [Apple Liquid-Glass Portfolio](https://github.com/sriramachellu/LLM-Powered-Portfolio-Website-with-Interactive-AI-Chat-Custom-RAG-Engine) — *AI Native Web Ecosystem* - [Live](www.sriramamurthychellu.dev)
 A fully resilient serverless web application showcasing structured project context via an interactive, AI-driven chatbot. Handles adaptive model fallback with deep Spotify Web API and RAG layer integrations.
