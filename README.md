@@ -92,6 +92,7 @@
   <img src="skills/Visual Studio Code (VS Code).svg" width="40" height="40" alt="VS Code" title="VS Code" />
   <img src="skills/colab-color.svg" width="40" height="40" alt="Colab" title="Google Colab" />
   <img src="skills/Jupyter.svg" width="40" height="40" alt="Jupyter" title="Jupyter" />
+  <br /><br />
   <b>Design Tools</b><br /><br />
   <img src="skills/figma-color.svg" width="40" height="40" alt="Figma" title="Figma" />
   <img src="skills/Adobe Photoshop.svg" width="40" height="40" alt="Photoshop" title="Photoshop" />
