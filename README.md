@@ -1,8 +1,3 @@
-<!-- HERO -->
-<p align="center">
-  <img src="Srirama Personal photo.jpg" width="550" height="550" style="border-radius: 50%" alt="Srirama Murthy Chellu" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Srirama+Murthy+Chellu;Building+systems+that+think;AI%2FML+Engineer+%7C+Data+Scientist" />
 </p>
