@@ -17,25 +17,25 @@
 
 ---
 
-## 🧭 Who I Am
+## Who I Am
 
 > I’m a production-focused **AI/ML engineer** turning complex data into production grade AI systems.  
 > Originally from **Hyderabad, India**, and now building in **Los Angeles, California**, I work at the intersection of data, infrastructure, and scale. From a Master’s in Data Science at **Florida State University** to distributed AI architectures, I bridge theory with real world execution.
 
-- 🧠 Built **RAG pipelines, LLM apps, bioinformatics tools, and predictive models**
-- ⚙️ Comfortable across **machine learning, data engineering, and full-stack development**
-- 🚀 I like **owning features end-to-end**
-- 📊 Passionate about turning complex data into actionable insights
+- Built **RAG pipelines, LLM apps, bioinformatics tools, and predictive models**
+- Comfortable across **machine learning, data engineering, and full-stack development**
+- I like **owning features end-to-end**
+- Passionate about turning complex data into actionable insights
 
 ---
 
-## 🧩 The Systems and Architectures I Design
+## The Systems and Architectures I Design
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI/ML Systems
+### AI/ML Systems
 - RAG systems & LLM integrations  
 - Predictive modeling & CNNs  
 - Vector search & embeddings (Vertex AI)  
@@ -44,7 +44,7 @@
 </td>
 <td width="50%">
 
-### 🏗️ Data Engineering & Full-Stack
+### Data Engineering & Full-Stack
 - ETL pipelines & big data analytics (PySpark)  
 - API platforms (FastAPI, Flask)  
 - Interactive KPI dashboards  
@@ -56,33 +56,33 @@
 
 ---
 
-## 🛠️ The Stack
+## The Stack
 > The Languages, Systems, and Frameworks I use to design intelligent, scalable software.
 
 | Category | Technologies |
 |---|---|
-| 💻 **Programming Languages** | Python, TypeScript, JavaScript, SQL, C, R |
-| 🧠 **Machine Learning & AI** | PyTorch, TensorFlow, Scikit-learn, XGBoost, MLflow, NumPy, Pandas, Model Evaluation |
-| 🤖 **Generative & Agentic AI** | LLMs, RAG Pipelines, LoRA Fine-Tuning, Vector Databases, Prompt Engineering, LangChain, LlamaIndex, OpenAI, Gemini, Anthropic |
-| 📊 **Data Engineering & Analytics** | Apache Spark (PySpark), Apache Beam, Airflow, ETL Pipelines, BigQuery, Power BI, Tableau, SQL Analytics |
-| ☁️ **Cloud & Infrastructure** | Google Cloud Platform (GCP), AWS, Docker, GitHub Actions, CI/CD Pipelines, Vercel |
-| 🗄️ **Databases** | PostgreSQL, MySQL, Supabase, Convex, BigQuery |
-| 🛠️ **AI Assisted Tools & IDEs** | GitHub Copilot, Cursor AI, Claude Code, ChatGPT, Antigravity, VS Code |
+| **Programming Languages** | Python, TypeScript, JavaScript, SQL, C, R |
+| **Machine Learning & AI** | PyTorch, TensorFlow, Scikit-learn, XGBoost, MLflow, NumPy, Pandas, Model Evaluation |
+| **Generative & Agentic AI** | LLMs, RAG Pipelines, LoRA Fine-Tuning, Vector Databases, Prompt Engineering, LangChain, LlamaIndex, OpenAI, Gemini, Anthropic |
+| **Data Engineering & Analytics** | Apache Spark (PySpark), Apache Beam, Airflow, ETL Pipelines, BigQuery, Power BI, Tableau, SQL Analytics |
+| **Cloud & Infrastructure** | Google Cloud Platform (GCP), AWS, Docker, GitHub Actions, CI/CD Pipelines, Vercel |
+| **Databases** | PostgreSQL, MySQL, Supabase, Convex, BigQuery |
+| **AI Assisted Tools & IDEs** | GitHub Copilot, Cursor AI, Claude Code, ChatGPT, Antigravity, VS Code |
 
 ---
 
-## 🚀 Selected Work
+## Selected Work
 
 > From retrieval-augmented assistants to full stack ML platforms, each project is engineered for performance, reliability, and real world impact.
 
-- 🤖 **OpenNoteLM** — AI Driven Document Intelligence Workspace (RAG, Gemini 2.5 Flash, Convex)
-- 📄 **LLM-Powered Portfolio** — Custom RAG + adaptive fallback strategies (Next.js, Tailwind, Gemini)
-- 🧠 **Metagenomic Data Interpretation** — PubMed-grounded RAG + DeepSeek-R1 8B
-- 🏦 **Superstore Sales Analytics** — 50k+ transactions processed via PySpark & visualized in Power BI
+- **OpenNoteLM** — AI Driven Document Intelligence Workspace (RAG, Gemini 2.5 Flash, Convex)
+- **LLM Powered Portfolio** — Custom RAG + adaptive fallback strategies (Next.js, Tailwind, Gemini)
+- **Metagenomic Data Interpretation** — PubMed-grounded RAG + DeepSeek-R1 8B
+- **Superstore Sales Analytics** — 50k+ transactions processed via PySpark & visualized in Power BI
 
 ---
 
-## 🧠 What I’m Currently Leveling Up
+## What I’m Currently Leveling Up
 
 | Area | Focus |
 |------|--------|
@@ -93,23 +93,7 @@
 
 ---
 
-## 📊 Code Footprint
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramachellu&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📚 Inputs That Shape My Thinking
-
-**Read:** PyTorch Docs, Towards Data Science, arXiv, Hacker News  
-**Watch:** Andrej Karpathy, 3Blue1Brown, Stanford CS224N  
-**Follow:** Yann LeCun, Andrew Ng, ML Twitter  
-
----
-
-## 🤝 Let’s Build Something Real
+## Let’s Build Something Real
 
 <p align="center">
 <a href="https://linkedin.com/in/sriramamurthychellu">
@@ -118,6 +102,6 @@
 </p>
 
 <p align="center">
-<b>⭐ I like building systems that think, not just demos.</b><br/>
+<b>I like building systems that think, not just demos.</b><br/>
 If you’re working on something ambitious, let’s talk.
 </p>
