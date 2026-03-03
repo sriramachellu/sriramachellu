@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="Srirama Personal photo.jpg" width="250" height="250" style="border-radius: 50%" alt="Srirama Murthy Chellu" />
+  <img src="Srirama Personal photo.jpg" width="550" height="550" style="border-radius: 50%" alt="Srirama Murthy Chellu" />
 </p>
 
 <p align="center">
