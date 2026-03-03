@@ -109,7 +109,7 @@
 ### [OpenNoteLM](https://github.com/sriramachellu) — *AI Document Workspace* - [Live](https://opennotelm.app)
 A low-latency RAG system integrating Gemini 2.5 Flash and Vertex AI. Features ~120–250ms Time-to-First-Token, robust semantic retrieval, and zero idle compute overhead. Orchestrated via Next.js and Convex.
 
-### [Apple Liquid-Glass Portfolio](https://github.com/sriramachellu/LLM-Powered-Portfolio-Website-with-Interactive-AI-Chat-Custom-RAG-Engine) — *AI Native Web Ecosystem* - [Live](www.sriramamurthychellu.dev)
+### [Apple Liquid-Glass Portfolio](https://github.com/sriramachellu/LLM-Powered-Portfolio-Website-with-Interactive-AI-Chat-Custom-RAG-Engine) — *AI Native Web Ecosystem* - [Live](https://www.sriramamurthychellu.dev/)
 A fully resilient serverless web application showcasing structured project context via an interactive, AI-driven chatbot. Handles adaptive model fallback with deep Spotify Web API and RAG layer integrations.
 
 ### [Metagenomic Interpretation via GenAI](https://github.com/sriramachellu/GenAI-Assisted-Interpretation-of-Metagenomic-Sequencing-Data) — *Clinical Insight Pipelines*
