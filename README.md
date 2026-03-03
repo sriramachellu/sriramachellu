@@ -117,44 +117,14 @@
 
 > From semantic retrieval-augmented assistants to scalable data platforms, each project is engineered to withstand real-world constraints.
 
-<table>
-  <tr>
-    <td width="30%">
-      <img src="OpenNoteLM.jpg" width="100%" alt="OpenNoteLM UI">
-    </td>
-    <td width="70%">
-      <b><a href="https://github.com/sriramachellu">OpenNoteLM</a> — AI Document Workspace</b> - <a href="https://opennotelm.app">Live</a><br/>
-      A low-latency RAG system integrating Gemini 2.5 Flash and Vertex AI. Features ~120–250ms Time-to-First-Token, robust semantic retrieval, and zero idle compute overhead. Orchestrated via Next.js and Convex.
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <img src="Portfolio project image.jpg" width="100%" alt="Portfolio UI">
-    </td>
-    <td width="70%">
-      <b><a href="https://github.com/sriramachellu/LLM-Powered-Portfolio-Website-with-Interactive-AI-Chat-Custom-RAG-Engine">Apple Liquid-Glass Portfolio</a> — AI Native Web Ecosystem</b> - <a href="https://sriramamurthychellu.dev">Live</a><br/>
-      A fully resilient serverless web application showcasing structured project context via an interactive, AI-driven chatbot. Handles adaptive model fallback with deep Spotify Web API and RAG layer integrations.
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <img src="GenAI Bioinfo.jpg" width="100%" alt="GenAI Bioinfo">
-    </td>
-    <td width="70%">
-      <b><a href="https://github.com/sriramachellu/GenAI-Assisted-Interpretation-of-Metagenomic-Sequencing-Data">Metagenomic Interpretation via GenAI</a> — Clinical Insight Pipelines</b><br/>
-      Transforms raw sequencing noise into PubMed grounded inferences using DeepSeek-R1. Bridges bioinformatics with structural reasoning through strict contaminant filtering and safety constrained generation capabilities.
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <img src="Superstore Sales Analysis and Visualization.png" width="100%" alt="Superstore Sales Analysis Dashboard">
-    </td>
-    <td width="70%">
-      <b><a href="https://github.com/sriramachellu/Sales-Performance-Profit-Insights-Analysis-Dashboard-Visualization-SQL-Power-BI-Tableau">Superstore Sales Analysis & Visualization</a> — Retail Analytics Dashboard & ETL Pipeline</b><br/>
-      Developed a scalable data engineering and analytics workflow processing 50,000+ retail records using PySpark and MySQL. Highlights regional performance, profitability trends, and customer retention metrics.
-    </td>
-  </tr>
-</table>
+### [OpenNoteLM](https://github.com/sriramachellu) — *AI Document Workspace* - [Live](https://opennotelm.app)
+A low-latency RAG system integrating Gemini 2.5 Flash and Vertex AI. Features ~120–250ms Time-to-First-Token, robust semantic retrieval, and zero idle compute overhead. Orchestrated via Next.js and Convex.
+
+### [Apple Liquid-Glass Portfolio](https://github.com/sriramachellu/LLM-Powered-Portfolio-Website-with-Interactive-AI-Chat-Custom-RAG-Engine) — *AI Native Web Ecosystem* - [Live](www.sriramamurthychellu.dev)
+A fully resilient serverless web application showcasing structured project context via an interactive, AI-driven chatbot. Handles adaptive model fallback with deep Spotify Web API and RAG layer integrations.
+
+### [Metagenomic Interpretation via GenAI](https://github.com/sriramachellu/GenAI-Assisted-Interpretation-of-Metagenomic-Sequencing-Data) — *Clinical Insight Pipelines*
+Transforms raw sequencing noise into PubMed grounded inferences using DeepSeek-R1. Bridges bioinformatics with structural reasoning through strict contaminant filtering and safety constrained generation capabilities.
 
 ---
 
