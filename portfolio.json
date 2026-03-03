@@ -1,0 +1,417 @@
+{
+  "personal": {
+    "name": "Srirama Murthy Chellu",
+    "title": "AI/ML Engineer also a Data Scientist & Data Analyst",
+    "tagline": "Building systems that think.",
+    "bio": "Production focused AI/ML engineer with a bias for elegant systems, clean abstractions, and shipping things that matter. I build at the intersection of machine intelligence and great product.",
+    "location": "San Francisco, CA",
+    "email": "[sriramamurthychellu@gmail.com]",
+    "github": "https://github.com/sriramachellu",
+    "linkedin": "https://linkedin.com/in/sriramamurthychellu"
+  },
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": [
+        "Python",
+        "SQL",
+        "TypeScript",
+        "JavaScript",
+        "C",
+        "R"
+      ]
+    },
+    {
+      "category": "Machine Learning & AI",
+      "items": [
+        "PyTorch",
+        "TensorFlow",
+        "Scikit-learn",
+        "XGBoost",
+        "MLflow",
+        "NumPy",
+        "Pandas",
+        "OpenCV",
+        "Model Evaluation & Validation",
+        "Feature Engineering"
+      ]
+    },
+    {
+      "category": "Generative & Agentic AI",
+      "items": [
+        "Large Language Models (LLMs)",
+        "RAG Pipelines",
+        "LoRA Fine-Tuning",
+        "vLLM",
+        "OpenAI API",
+        "Google Gemini API",
+        "Anthropic Claude",
+        "LangChain",
+        "LlamaIndex",
+        "Ollama",
+        "Vector Databases",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "category": "Data Engineering & Analytics",
+      "items": [
+        "Apache Spark (PySpark)",
+        "Apache Beam",
+        "Apache Airflow",
+        "ETL Pipelines",
+        "Data Cleaning & Transformation",
+        "BigQuery",
+        "SQL Analytics",
+        "Power BI",
+        "Tableau",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "category": "Cloud & Infrastructure",
+      "items": [
+        "Google Cloud Platform (GCS, BigQuery, Dataflow)",
+        "AWS",
+        "Docker",
+        "GitHub Actions",
+        "CI/CD Pipelines",
+        "Vercel"
+      ]
+    },
+    {
+      "category": "Databases",
+      "items": [
+        "MySQL",
+        "PostgreSQL",
+        "Supabase",
+        "Convex",
+        "BigQuery"
+      ]
+    },
+    {
+      "category": "AI Assisted Tools & IDEs",
+      "items": [
+        "GitHub Copilot",
+        "Claude Code",
+        "Cursor AI",
+        "ChatGPT",
+        "Perplexity Pro",
+        "VS Code",
+        "Antigravity",
+        "Codex by OpenAI",
+        "Google Colab"
+      ]
+    },
+    {
+      "category": "Full Stack Development",
+      "items": [
+        "React",
+        "Next.js",
+        "FastAPI",
+        "REST APIs",
+        "Tailwind CSS",
+        "Framer Motion",
+        "CSS"
+      ]
+    },
+    {
+      "category": "Testing & Version Control",
+      "items": [
+        "Git",
+        "GitHub",
+        "PyTest",
+        "Integration Testing",
+        "A/B Testing"
+      ]
+    },
+    {
+      "category": "Core Computer Science",
+      "items": [
+        "Data Structures & Algorithms",
+        "System Design",
+        "Object-Oriented Programming",
+        "Operating Systems",
+        "Computer Networks",
+        "Distributed Systems",
+        "Database Systems"
+      ]
+    },
+    {
+      "category": "Design & Media",
+      "items": [
+        "Figma",
+        "Adobe Photoshop",
+        "Adobe Premiere Pro",
+        "Adobe After Effects",
+        "Canva"
+      ]
+    },
+    {
+      "category": "Personal Development",
+      "items": [
+        "Leadership",
+        "Communication",
+        "Time Management",
+        "Problem Solving",
+        "Strategic Thinking",
+        "Public Speaking",
+        "Event Management"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "OpenNoteLM (Inspired by Google NotebookLM)",
+      "tagline": "AI Driven Document Intelligence Workspace",
+      "description": "OpenNoteLM was built to explore how a lightweight, cost efficient alternative to large document intelligence platforms could be implemented using modern LLM infrastructure. The project focuses on designing a low latency Retrieval Augmented Generation (RAG) system that delivers grounded responses over uploaded PDF collections. It integrates Gemini 2.5 Flash with Vertex AI embeddings, leveraging 768 dimensional vector search for semantic retrieval. The architecture emphasizes retrieval optimization (sub 50ms search latency), structured context chunking to reduce hallucination risk, and fast Time to First Token performance (~120–250ms). Deployed using Vercel for frontend delivery, Convex for backend and database orchestration, and protected via Cloudflare at the edge, the system operates on serverless infrastructure with zero idle compute overhead. From a business perspective, the project demonstrates the ability to design and deploy scalable, cost aware AI systems that balance performance, grounding, and infrastructure efficiency.",
+      "architecture": [
+        "Full RAG Pipeline",
+        "Reactive Data Layer",
+        "Vector Search Engine",
+        "Grounding Framework"
+      ],
+      "impact": [
+        "Latency: 120-250ms TTFT",
+        "Retrieval: <50ms",
+        "Zero Idle Infrastructure Cost"
+      ],
+      "stack": [
+        "Gemini 2.5 Flash",
+        "Vertex AI",
+        "Vector Search",
+        "Convex",
+        "Next.js",
+        "TypeScript",
+        "Python",
+        "Serverless Architecture",
+        "text-embedding-004",
+        "Material UI",
+        "React"
+      ],
+      "category": "AI Systems",
+      "image": "/OpenNoteLM.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Portfolio Website with Interactive AI Chat Bot",
+      "tagline": "Apple Liquid Glass Inspired UI/UX",
+      "description": "The portfolio website was designed as an AI native workspace rather than a static personal showcase, with the intention of demonstrating real world LLM integration in a production style web application. It incorporates a custom RAG layer to dynamically surface structured project context using JSON based chunking and controlled prompt pipelines. The system implements model fallback strategies and exponential backoff handling to maintain resilience under API rate limits. Deployed entirely on Vercel, the application reflects a serverless first approach emphasizing secure API management, prompt guardrails, and optimized inference flow. From a business standpoint, it showcases the practical ability to embed LLM powered features into modern web products while maintaining availability, cost control, and performance awareness.",
+      "architecture": [
+        "JSON-Based Context Chunking",
+        "Keyword Scoring Retrieval",
+        "Serverless LLM Integration",
+        "Prompt Guardrail System"
+      ],
+      "impact": [
+        "Production Ready RAG Engine",
+        "Adaptive model fallback",
+        "Secure environment architecture"
+      ],
+      "stack": [
+        "Google Gemini API",
+        "Custom RAG Architecture",
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Claude Sonnet 4.6",
+        "Google Antigravity",
+        "Vercel",
+        "Spotify Web API & OAuth",
+        "React"
+      ],
+      "github": "https://github.com/sriramachellu/LLM-Powered-Portfolio-Website-with-Interactive-AI-Chat-Custom-RAG-Engine",
+      "demo": null,
+      "category": "AI Systems",
+      "image": "/Portfolio project image.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Interpretation of Metagenomic Data using GenAI",
+      "tagline": "Bridging Metagenomics and Clinical Action through LLMs",
+      "description": "This project was motivated by the complexity of interpreting metagenomic next generation sequencing (mNGS) outputs, where microbial signal noise and fragmented literature references can make structured reasoning difficult. The system integrates contaminant filtering and pathogen ranking with a PubMed grounded RAG pipeline to support literature backed analysis. Using DeepSeek R1 for structured reasoning, the workflow transforms raw sequencing outputs into organized, evidence referenced draft reports. The focus of the project is on building interpretable AI pipelines that emphasize source grounding and safety constrained reasoning rather than autonomous diagnosis. From a business and research perspective, it demonstrates how GenAI can assist in organizing complex biomedical data into structured insights while preserving traceability and evidentiary support.",
+      "architecture": [
+        "Signal Processing Pipeline",
+        "PubMed-Backed RAG",
+        "Pathogen Ranking Engine",
+        "Safety-Constrained Reasoning"
+      ],
+      "impact": [
+        "Literature Grounded Reports",
+        "Pathogen Ranking: Weighted",
+        "Automated Contaminant Filtering"
+      ],
+      "stack": [
+        "DeepSeek-R1 8B LLM",
+        "Python",
+        "FastAPI",
+        "UMAP",
+        "Sentence-Transformers",
+        "PubMed-Backed RAG",
+        "Bioinformatics",
+        "NCBI Entrez API",
+        "Pandas",
+        "NumPy",
+        "scikit-learn",
+        "PostgreSQL",
+        "Ollama"
+      ],
+      "github": "https://github.com/sriramachellu/GenAI-Assisted-Interpretation-of-Metagenomic-Sequencing-Data",
+      "demo": null,
+      "category": "Bioinformatics",
+      "image": "/GenAI Bioinfo.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Superstore Sales Analysis and Visualization",
+      "tagline": "Retail Analytics Dashboard & ETL Pipeline",
+      "description": "The Superstore Sales project was developed to explore scalable data engineering and analytics workflows for large transactional datasets. Processing 50,000+ retail records using PySpark and MySQL, the system implements a structured ETL pipeline that automates cleaning, transformation, and KPI aggregation. The processed data is centralized in interactive Power BI dashboards highlighting regional performance, profitability trends, and customer retention metrics. The project emphasizes reproducible pipelines and automated reporting over manual spreadsheet analysis. From a business perspective, it demonstrates the ability to translate raw operational data into structured dashboards that enable performance monitoring and data driven decision making.",
+      "architecture": [
+        "ETL Data Pipeline",
+        "Interactive KPI Dashboards",
+        "Predictive Modeling Layer",
+        "Regional Profitability Analysis"
+      ],
+      "impact": [
+        "Processed 50,000+ Transactions",
+        "50% Reduction in Manual Reporting",
+        "30% Increase in Participation Insights"
+      ],
+      "stack": [
+        "Power BI",
+        "PySpark",
+        "SQL",
+        "Python",
+        "MySQL",
+        "Pandas",
+        "Weights & Biases"
+      ],
+      "github": "https://github.com/sriramachellu/Sales-Performance-Profit-Insights-Analysis-Dashboard-Visualization-SQL-Power-BI-Tableau",
+      "demo": null,
+      "category": "Data Engineering",
+      "image": "/Superstore Sales Analysis and Visualization.png"
+    },
+    {
+      "id": "5",
+      "title": "Pneumonia Detection Using Chest X-Rays",
+      "tagline": "CNN Based Pneumonia Detection",
+      "description": "This project was undertaken to study the practical challenges of deep learning in medical imaging, particularly model generalization across real world data. A convolutional neural network was trained on 5,800+ pediatric chest X-ray images with data augmentation and dropout regularization techniques applied to mitigate overfitting. The model achieved 97%+ training accuracy and 79.17% test accuracy, highlighting the gap between training performance and generalization in clinical datasets. The primary objective was to understand model behavior in healthcare contexts and evaluate how AI assisted preliminary screening systems could support radiological workflows. From a broader impact perspective, the project demonstrates applied deep learning methodology with careful attention to evaluation rigor.",
+      "architecture": [
+        "CNN Architecture",
+        "Data Preprocessing Pipeline",
+        "Augmentation Strategy",
+        "Evaluation Framework"
+      ],
+      "impact": [
+        "Accuracy: 79.17% test accuracy",
+        "97%+ Training Accuracy",
+        "Reduced manual screening time"
+      ],
+      "stack": [
+        "PyTorch",
+        "CNN",
+        "Deep Learning",
+        "Python",
+        "Medical Imaging",
+        "Torchvision"
+      ],
+      "github": "https://github.com/sriramachellu/Pneumonia-Detection-Using-Chest-X-Rays",
+      "demo": null,
+      "category": "Machine Learning",
+      "image": "/Pneumonia Detection Using Chest X-Rays.png"
+    },
+    {
+      "id": "6",
+      "title": "Autonomous Data Labeler",
+      "tagline": "Active Learning Data Labeling System",
+      "description": "The Autonomous Data Labeler was designed to explore cost efficient annotation strategies for scaling machine learning systems. The architecture follows a weak to strong orchestration model in which a lightweight model proposes labels, human reviewers validate uncertain cases, and a supervisory model arbitrates edge scenarios. This layered workflow reduces dependency on fully manual annotation while preserving quality control mechanisms. Simulated cost comparisons suggest meaningful efficiency improvements compared to traditional labeling pipelines. From a business standpoint, the project demonstrates scalable annotation design, human in the loop integration, and structured supervision strategies aimed at balancing cost, speed, and precision in ML development.",
+      "architecture": [
+        "Proposal Engine (Weak LLM)",
+        "Human-in-the-Loop UI",
+        "Arbitration System (Strong LLM)",
+        "Feedback Integration Loop"
+      ],
+      "impact": [
+        "80% Reduction in Labeling Cost",
+        "Scalable Data Annotation",
+        "Hybrid Auto-Human Workflow"
+      ],
+      "stack": [
+        "Anthropic",
+        "Python",
+        "Active Learning",
+        "FastAPI",
+        "React",
+        "PostgreSQL"
+      ],
+      "github": "https://github.com/sri/data-labeler",
+      "demo": null,
+      "category": "AI Systems",
+      "image": "/data_labeler_showcase.png"
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "Saayam For All",
+      "role": "Full Stack Developer",
+      "duration": "July 2025 \u2013 Present",
+      "location": "San Jose, CA",
+      "bullets": [
+        "Built and maintained backend services and REST APIs in Python using Flask to power real time geospatial volunteer matching, enabling efficient and low latency request routing across active users.",
+        "Designed and optimized PostgreSQL schemas on AWS Aurora with spatial indexing to improve nearest neighbor searches and location based filtering, reducing query time and improving system responsiveness.",
+        "Refactored SQL queries and backend workflows to remove performance bottlenecks, improving API stability and maintaining reliable data availability under concurrent usage.",
+        "Integrated AWS services including Lambda, API Gateway, Cognito, and MSK to support a secure microservices architecture with event driven communication patterns.",
+        "Contributed to Git based CI/CD workflows with structured pull requests, automated testing pipelines, and deployment validation, while documenting architecture and resolving frontend integration issues using React and JavaScript to improve overall system reliability and maintainability."
+      ],
+      "image": "/saayam.jpg",
+      "imageCaption": "Death Valley, CA",
+      "imageYears": "2025"
+    },
+    {
+      "company": "Florida State University (FSU)",
+      "role": "Master of Science in Data Science in Scientific Computing",
+      "duration": "2023 - 2025",
+      "location": "Tallahassee, FL",
+      "bullets": [
+        "GPA: 3.897",
+        "Courses: Data Mining, Machine Learning, Regression Analysis, Data Visualization, Security Fundamentals",
+        "Collaborated with peers on academic research and capstone problem solving in predictive modeling."
+      ],
+      "image": "/FSU.jpg",
+      "imageCaption": "FSU, Tallahassee",
+      "imageYears": "2024"
+    },
+    {
+      "company": "Gokaraju Rangaraju Institute of Engineering and Technology (GRIET)",
+      "role": "Data Analyst",
+      "duration": "2021 \u2013 2022",
+      "location": "Hyderabad, India",
+      "bullets": [
+        "Collected, cleaned, and analyzed event participation data using SQL and Excel across more than 12 technical and cultural programs to support planning and improve decision making.",
+        "Built automated dashboards and recurring reports to track engagement trends, participation patterns, sponsorship performance, and key operational metrics, reducing manual reporting effort by 50 percent.",
+        "Standardized data preparation, validation, and reporting processes to improve data consistency and helped increase attendee engagement by 30 percent through data informed insights.",
+        "Worked closely with sponsorship teams and organizing committees to translate event objectives into clear analytical insights that guided strategic planning and post event evaluation.",
+        "Led the planning and execution of workshops and hackathons as Chairperson of IEEE GRSS, while also creating digital promotional assets using Adobe Photoshop and Premiere Pro to maintain consistent branding and documentation."
+      ],
+      "image": "/Gokaraju 2.JPG",
+      "imageCaption": "GRIET, Hyderabad",
+      "imageYears": "2023"
+    },
+    {
+      "company": "Gokaraju Rangaraju Institute of Engineering and Technology (GRIET)",
+      "role": "Bachelor of Technology in Electronics and Communication Engineering",
+      "duration": "2019 - 2023",
+      "location": "Hyderabad, India",
+      "bullets": [
+        "GPA: 3.30",
+        "Coursework: Signals and Systems, Digital Communications, Probability and Random Processes, Embedded Systems, Microprocessors",
+        "Led and organized 20+ technical events as IEEE GRSS Chair, applying data analysis and structured reporting to improve participation and operational efficiency."
+      ],
+      "image": "Gokaraju 1.jpg",
+      "imageCaption": "GRIET, Hyderabad",
+      "imageYears": "2022"
+    }
+  ]
+}
