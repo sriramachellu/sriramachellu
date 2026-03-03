@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/sriramamurthychellu">LinkedIn</a> •
   <a href="https://github.com/sriramachellu">GitHub</a> •
-  <a href="https://github.com/sriramachellu">Portfolio</a> •
+  <a href="https://sriramamurthychellu.dev">Portfolio</a> •
   <a href="mailto:sriramamurthychellu@gmail.com">Email</a>
 </p>
 
