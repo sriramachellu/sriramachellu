@@ -18,12 +18,33 @@
 
 ## Engineering Philosophy
 
-> I build at the intersection of machine intelligence and user product. Originally from Hyderabad, India, and now engineering out of Los Angeles, CA. My focus spans from raw data science models to autonomous RAG pipelines, data analytics, and reactive full stack environments.
+> I design production-grade AI systems at the intersection of machine intelligence and scalable infrastructure. My work spans retrieval-augmented generation, distributed data pipelines, and backend architectures optimized for latency, reliability, and cost efficiency.
 
 - **Systems Architecture:** Designing low-latency, scalable infrastructure with zero idle compute overhead.
 - **AI/ML Engineering:** Custom RAG pipelines, fine-tuned LLMs, dynamic prompt engineering, and deep learning modeling.
 - **Data Engineering:** Extracting, transforming, and interpreting complex, real world data at scale.
 - **Full-Stack Execution:** End-to-end feature ownership from the backend database to the frontend UI.
+
+---
+
+## Systems Metrics
+
+- <50ms semantic retrieval latency
+- ~120–250ms Time-to-First-Token (LLM streaming)
+- 50k+ transaction distributed ETL processing
+- 1,400+ active users supported in production microservices
+- Zero idle serverless compute overhead
+
+---
+
+## Systems Design & Evaluation
+
+- Hybrid retrieval (semantic + keyword scoring)
+- Hallucination mitigation via structured chunking
+- Model fallback routing & rate limit resilience
+- Observability first logging & structured error tracing
+- Evaluation-driven development (retrieval testing, output validation)
+- Cost-aware model selection strategies
 
 ---
 
