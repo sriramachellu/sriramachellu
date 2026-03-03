@@ -188,11 +188,9 @@
   <a href="https://linkedin.com/in/sriramamurthychellu">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="40" alt="LinkedIn"/>
   </a>
-</p>
-
-<p align="center">
   <a href="mailto:sriramamurthychellu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
 
 <p align="center">
   <b>If you’re working on something ambitious, let’s talk.</b><br/>
