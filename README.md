@@ -251,7 +251,3 @@
   <b>If you're working on something ambitious, let's talk.</b><br/>
   Always open to designing smarter architectures and driving impact.
 </p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sriramachellu&style=flat-square&color=blue" alt="Profile views" />
-</p>
