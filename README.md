@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Srirama+Murthy+Chellu;Building+systems+that+think;AI%2FML+Engineer+%7C+Robotics+Perception" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Srirama+Murthy+Chellu;Building+systems+that+think;AI%2FML+Engineer+%7C+Data+Scientist" />
 </p>
 
 <p align="center">
-  <b>Production-focused AI/ML engineer building perception pipelines, agentic systems, and scalable infrastructure.</b><br/>
+  <b>Production focused AI/ML engineer bringing elegant systems to life.</b><br/>
   Bias for clean abstractions, machine intelligence, and shipping things that matter.
 </p>
 
@@ -12,18 +12,19 @@
   <a href="https://github.com/sriramachellu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://sriramamurthychellu.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:sriramamurthychellu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+18505596563"><img src="https://img.shields.io/badge/Phone-D14836?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
 </p>
 
 ---
 
 ## Engineering Philosophy
 
-> I design production-grade AI systems at the intersection of robotics perception, machine intelligence, and scalable infrastructure. My work spans 3D pose estimation and CUDA-accelerated vision pipelines, multi-agent LLM architectures, distributed data pipelines, and backend systems optimized for latency, reliability, and cost efficiency.
+> I design production-grade AI systems at the intersection of machine intelligence and scalable infrastructure. My work spans retrieval-augmented generation, distributed data pipelines, and backend architectures optimized for latency, reliability, and cost efficiency.
 
-- **Robotics & Perception:** Hand and 6D object pose estimation, grasp analysis, Kalman tracking, custom CUDA kernels for depth processing.
-- **AI/ML Engineering:** Multi-agent LLM pipelines, fine-tuned models, RAG systems, inference optimization, and deep learning modeling.
-- **Data Engineering:** Extracting, transforming, and interpreting complex, real-world data at scale with PySpark, Airflow, and cloud-native tools.
-- **Full-Stack Execution:** End-to-end feature ownership from backend databases and APIs to frontend UIs, deployed with CI/CD.
+- **Systems Architecture:** Designing low-latency, scalable infrastructure with zero idle compute overhead.
+- **AI/ML Engineering:** Custom RAG pipelines, fine-tuned LLMs, dynamic prompt engineering, and deep learning modeling.
+- **Data Engineering:** Extracting, transforming, and interpreting complex, real world data at scale.
+- **Full-Stack Execution:** End-to-end feature ownership from the backend database to the frontend UI.
 
 ---
 
@@ -36,23 +37,26 @@
   <img src="skills/Python.svg" width="40" height="40" alt="Python" title="Python" />
   <img src="skills/TypeScript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
   <img src="skills/JavaScript.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="skills/C.svg" width="40" height="40" alt="C/C++" title="C/C++" />
+  <img src="skills/C.svg" width="40" height="40" alt="C" title="C" />
   <img src="skills/R.svg" width="40" height="40" alt="R" title="R" />
   <img src="skills/Bash.svg" width="40" height="40" alt="Bash" title="Bash" />
 </p>
 
-### Machine Learning & Computer Vision
+### Machine Learning & Data Analytics
 <p>
   <img src="skills/PyTorch.svg" width="40" height="40" alt="PyTorch" title="PyTorch" />
   <img src="skills/TensorFlow.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow" />
   <img src="skills/scikit-learn.svg" width="40" height="40" alt="Scikit-Learn" title="Scikit-Learn" />
-  <img src="skills/OpenCV.svg" width="40" height="40" alt="OpenCV" title="OpenCV" />
   <img src="skills/NumPy.svg" width="40" height="40" alt="NumPy" title="NumPy" />
   <img src="skills/Pandas.svg" width="40" height="40" alt="Pandas" title="Pandas" />
   <img src="skills/Matplotlib.svg" width="40" height="40" alt="Matplotlib" title="Matplotlib" />
+  <img src="skills/OpenCV.svg" width="40" height="40" alt="OpenCV" title="OpenCV" />
   <img src="skills/Apache Spark.svg" width="40" height="40" alt="Apache Spark" title="Apache Spark" />
   <img src="skills/beam-logo-full-color-name-bottom.svg" width="40" height="40" alt="Apache Beam" title="Apache Beam" />
   <img src="skills/Apache Airflow.svg" width="40" height="40" alt="Apache Airflow" title="Apache Airflow" />
+  <img src="skills/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI" title="Power BI" />
+  <img src="skills/tableau.svg" width="40" height="40" alt="Tableau" title="Tableau" />
+  <img src="skills/microsoft-excel.svg" width="40" height="40" alt="Excel" title="Excel" />
 </p>
 
 ### Generative AI & LLM Systems
@@ -63,7 +67,7 @@
   <img src="skills/gemini-color.svg" width="40" height="40" alt="Gemini" title="Gemini" />
   <img src="skills/deepseek-color.svg" width="40" height="40" alt="DeepSeek" title="DeepSeek" />
   <img src="skills/huggingface-color.svg" width="40" height="40" alt="HuggingFace" title="HuggingFace" />
-  <img src="skills/langchain.svg" width="40" height="40" alt="LangChain / LangGraph" title="LangChain / LangGraph" />
+  <img src="skills/langchain.svg" width="40" height="40" alt="LangChain" title="LangChain" />
   <img src="skills/llamaindex-color.svg" width="40" height="40" alt="LlamaIndex" title="LlamaIndex" />
   <img src="skills/ollama.svg" width="40" height="40" alt="Ollama" title="Ollama" />
   <img src="skills/vllm-color.svg" width="40" height="40" alt="vLLM" title="vLLM" />
@@ -111,7 +115,7 @@
 ## Education
 
 **M.S. in Data Science @ Florida State University** *(Tallahassee, FL | 2023 – 2025)*
-- Specialized in scientific computing, advanced ML, data mining, and secure data systems. Graduated with honors (3.897 GPA).
+- Specialized in advanced ML structures, data mining, and secure data systems. Graduated with honors (3.897 GPA).
 
 **B.Tech. in Electronics and Communication Engineering @ GRIET** *(Hyderabad, India | 2019 – 2023)*
 - Studied underlying hardware interfaces alongside higher-level programming logic and algorithms.
@@ -120,13 +124,9 @@
 
 ## Operational Experience
 
-- **Software Engineer @ Popular Tech** *(Los Angeles, CA | June 2026 – Present)*
-  - Developing full-stack software solutions using Python, SQL, JavaScript, and REST APIs to support enterprise application workflows, backend logic, and client-facing data-driven features.
-  - Supporting production development across database queries, debugging, API integration, and reporting workflows while collaborating with cross-functional teams.
-
-- **Full Stack Developer @ Saayam For All** *(San Jose, CA | July 2025 – June 2026)*
-  - Engineered and deployed Python (Flask) RESTful microservices enabling real-time geospatial volunteer tracking and Uber/Lyft-style request routing across 1,400+ global users.
-  - Designed and optimized PostgreSQL (AWS Aurora) schemas with spatial indexing to support efficient nearest-neighbor matching and low-latency location-based queries.
+- **Full Stack Developer @ Saayam For All** *(San Jose, CA | July 2025 – Present)*
+  - Engineered and deployed Python (Flask) RESTful microservices enabling real time geospatial volunteer tracking and Uber/Lyft-style request routing across 1,400+ global users.
+  - Designed and optimized PostgreSQL (AWS Aurora) schemas with spatial indexing to support efficient nearest neighbor matching and low latency location based queries.
   - Integrated backend-to-frontend services and maintained CI/CD pipelines (GitHub Actions, AWS) to ensure reliable deployments and production stability.
 
 - **Data Analyst @ GRIET** *(Hyderabad, India | 2021 – 2022)*
@@ -134,40 +134,11 @@
   - Built KPI dashboards and automated reporting workflows, reducing manual reporting effort by 50%.
   - Improved data reliability by standardizing validation and transformation processes, increasing sponsor and student engagement metrics by 30%.
 
----
-
 ## Systems Deployed
 
-> From robotics perception to agentic AI platforms, each project is engineered to withstand real-world constraints.
+> From semantic retrieval augmented assistants to scalable data platforms, each project is engineered to withstand real world constraints.
 
 <table>
-  <tr>
-    <td width="30%">
-      <img src="HandObject6DPose.jpg" width="100%" alt="Hand-Object Pose Estimation">
-    </td>
-    <td width="70%">
-      <b><a href="https://github.com/sriramachellu">Hand-Object 6D Pose Estimation for Robotic Grasping</a> — Robotics Perception Pipeline</b><br/>
-      An RGB-D pipeline that jointly estimates 21-joint 3D hand pose and 6D object pose using MediaPipe, YOLOv8/Mask R-CNN, and FoundationPose/CosyPose/MegaPose estimators. Features multi-scale ICP refinement with Open3D, an SE(3) Extended Kalman Filter tracker with Hungarian matching, grasp-type analysis across 5 classes, and custom C++ CUDA kernels for depth back-projection and filtering. Includes DexYCB/BOP dataloaders, FPS/latency profiling, Docker, and 32 unit tests.
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <img src="CortexBI.jpg" width="100%" alt="CortexBI Platform">
-    </td>
-    <td width="70%">
-      <b><a href="https://github.com/sriramachellu">CortexBI — Multi-Agent AI Analytics Platform</a> — Agentic Intelligence</b><br/>
-      An autonomous multi-agent analytics platform using a stateful 8-node LangGraph pipeline spanning ingestion, validation, cleaning, EDA, target framing, modeling, explainability, and interactive visualization. A Gemini-powered dashboard engine where agents infer dataset semantics, identify business metrics, and generate domain-aware story-mode visualizations with contextual KPIs.
-    </td>
-  </tr>
-  <tr>
-    <td width="30%">
-      <img src="FaceKey.jpg" width="100%" alt="FaceKey System">
-    </td>
-    <td width="70%">
-      <b><a href="https://github.com/sriramachellu">FaceKey — Offline Face Unlock for Windows</a> — On-Device Biometrics</b><br/>
-      An offline face-verification system using YuNet detection, ArcFace embeddings, anti-spoofing, and liveness checks that runs on CPU or CUDA GPUs. Packaged as a Python library with a Windows credential-provider module, benchmark scripts, and unit tests — all inference stays on-device.
-    </td>
-  </tr>
   <tr>
     <td width="30%">
       <img src="OpenNoteLM.jpg" width="100%" alt="OpenNoteLM UI">
@@ -182,7 +153,7 @@
       <img src="Portfolio project image.jpg" width="100%" alt="Portfolio UI">
     </td>
     <td width="70%">
-      <b><a href="https://github.com/sriramachellu/LLM-Powered-Portfolio-Website-with-Interactive-AI-Chat-Custom-RAG-Engine">Apple Liquid-Glass Portfolio</a> — AI-Native Web Ecosystem</b> - <a href="https://sriramamurthychellu.dev">Live</a><br/>
+      <b><a href="https://github.com/sriramachellu/LLM-Powered-Portfolio-Website-with-Interactive-AI-Chat-Custom-RAG-Engine">Apple Liquid-Glass Portfolio</a> — AI Native Web Ecosystem</b> - <a href="https://sriramamurthychellu.dev">Live</a><br/>
       A fully resilient serverless web application showcasing structured project context via an interactive, AI-driven chatbot. Handles adaptive model fallback with deep Spotify Web API and RAG layer integrations.
     </td>
   </tr>
@@ -192,7 +163,7 @@
     </td>
     <td width="70%">
       <b><a href="https://github.com/sriramachellu/GenAI-Assisted-Interpretation-of-Metagenomic-Sequencing-Data">Metagenomic Interpretation via GenAI</a> — Clinical Insight Pipelines</b><br/>
-      Transforms raw sequencing noise into PubMed-grounded inferences using DeepSeek-R1. Bridges bioinformatics with structural reasoning through strict contaminant filtering and safety-constrained generation capabilities.
+      Transforms raw sequencing noise into PubMed grounded inferences using DeepSeek-R1. Bridges bioinformatics with structural reasoning through strict contaminant filtering and safety constrained generation capabilities.
     </td>
   </tr>
   <tr>
@@ -203,50 +174,28 @@
       <b><a href="https://github.com/sriramachellu/Sales-Performance-Profit-Insights-Analysis-Dashboard-Visualization-SQL-Power-BI-Tableau">Superstore Sales Analysis & Visualization</a> — Retail Analytics Dashboard & ETL Pipeline</b><br/>
       Developed a scalable data engineering and analytics workflow processing 50,000+ retail records using PySpark and MySQL. Highlights regional performance, profitability trends, and customer retention metrics.
     </td>
-  </tr>
 </table>
 
 ---
 
 ## Systems Metrics
 
-- 21-joint 3D hand pose + 6D object pose estimation from RGB-D data
-- Custom C++ CUDA kernels for depth back-projection and filtering
-- 8-node stateful LangGraph multi-agent pipeline
-- ~120–250ms Time-to-First-Token (LLM streaming)
 - <50ms semantic retrieval latency
+- ~120–250ms Time-to-First-Token (LLM streaming)
 - 50k+ transaction distributed ETL processing
 - 1,400+ active users supported in production microservices
-- 32 unit tests, DexYCB/BOP benchmark dataloaders
 - Zero idle serverless compute overhead
 
 ---
 
 ## Systems Design & Evaluation
 
-- 3D geometry: ICP refinement, SE(3) Kalman filtering, Hungarian matching
-- Robotics perception: hand tracking, object detection, grasp classification
-- CUDA acceleration: custom kernels with CPU fallback paths
-- Multi-agent orchestration: stateful LangGraph pipelines with tool calling
 - Hybrid retrieval (semantic + keyword scoring)
 - Hallucination mitigation via structured chunking
 - Model fallback routing & rate limit resilience
-- Observability-first logging & structured error tracing
+- Observability first logging & structured error tracing
 - Evaluation-driven development (retrieval testing, output validation)
 - Cost-aware model selection strategies
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriramachellu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriramachellu&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriramachellu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
 
 ---
 
@@ -257,11 +206,12 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:sriramamurthychellu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="tel:+18505596563"><img src="https://img.shields.io/badge/Phone-D14836?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" /></a>
 </p>
 
 
 <p align="center">
-  <b>If you're working on something ambitious, let's talk.</b><br/>
+  <b>If you’re working on something ambitious, let’s talk.</b><br/>
   Always open to designing smarter architectures and driving impact.
 </p>
 
